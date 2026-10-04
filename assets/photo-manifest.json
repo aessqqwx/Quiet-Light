@@ -1,0 +1,1633 @@
+[
+  {
+    "id": "spiral",
+    "title": "Геометрия света",
+    "en": "Light in circles",
+    "tag": "АРХИТЕКТУРА",
+    "tagen": "ARCHITECTURE",
+    "variants": [
+      {
+        "file": "spiral-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "spiral-sm.webp",
+        "width": 820,
+        "height": 546
+      },
+      {
+        "file": "spiral-w1280.webp",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "file": "spiral-w1600.webp",
+        "width": 1600,
+        "height": 1066
+      },
+      {
+        "file": "spiral.webp",
+        "width": 2200,
+        "height": 1466
+      }
+    ],
+    "width": 2200,
+    "height": 1466,
+    "previewWidth": 820,
+    "previewHeight": 546,
+    "altRu": "Вид снизу на круглую лестницу с повторяющимися металлическими ступенями",
+    "altEn": "Looking up through a circular staircase with repeating metal steps",
+    "section": "hero"
+  },
+  {
+    "id": "fern",
+    "title": "Тихий мир",
+    "en": "A quiet world",
+    "tag": "ДЕТАЛИ",
+    "tagen": "DETAILS",
+    "variants": [
+      {
+        "file": "fern-w480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "file": "fern-sm.webp",
+        "width": 547,
+        "height": 820
+      },
+      {
+        "file": "fern-w800.webp",
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "file": "fern-w1200.webp",
+        "width": 1200,
+        "height": 1800
+      },
+      {
+        "file": "fern.webp",
+        "width": 1467,
+        "height": 2200
+      }
+    ],
+    "width": 1467,
+    "height": 2200,
+    "previewWidth": 547,
+    "previewHeight": 820,
+    "altRu": "Тёмно-зелёные листья папоротника и маленькая оранжевая бабочка",
+    "altEn": "Deep green fern leaves with a small orange butterfly",
+    "section": "selected"
+  },
+  {
+    "id": "milky-way",
+    "title": "Дальше, чем кажется",
+    "en": "Further than it seems",
+    "tag": "НОЧЬ",
+    "tagen": "NIGHT",
+    "variants": [
+      {
+        "file": "milky-way-w480.webp",
+        "width": 480,
+        "height": 318
+      },
+      {
+        "file": "milky-way-sm.webp",
+        "width": 820,
+        "height": 544
+      },
+      {
+        "file": "milky-way.webp",
+        "width": 1280,
+        "height": 849
+      }
+    ],
+    "width": 1280,
+    "height": 849,
+    "previewWidth": 820,
+    "previewHeight": 544,
+    "altRu": "Млечный Путь над силуэтами деревьев в ночном небе",
+    "altEn": "The Milky Way above silhouettes of trees at night",
+    "section": "selected"
+  },
+  {
+    "id": "archive-01",
+    "title": "Кибер-автомобиль",
+    "en": "Neon in motion",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-01-w480.webp",
+        "width": 480,
+        "height": 319
+      },
+      {
+        "file": "archive-01-sm.webp",
+        "width": 820,
+        "height": 545
+      },
+      {
+        "file": "archive-01.webp",
+        "width": 900,
+        "height": 598
+      }
+    ],
+    "width": 900,
+    "height": 598,
+    "previewWidth": 820,
+    "previewHeight": 545,
+    "altRu": "Автомобиль на фоне размытых синих огней ночного города",
+    "altEn": "A car against blurred blue city lights at night",
+    "section": "chapters"
+  },
+  {
+    "id": "night-drive",
+    "title": "После заката",
+    "en": "After sundown",
+    "tag": "ГОРОД",
+    "tagen": "CITY",
+    "variants": [
+      {
+        "file": "night-drive-w480.webp",
+        "width": 480,
+        "height": 313
+      },
+      {
+        "file": "night-drive-sm.webp",
+        "width": 820,
+        "height": 534
+      },
+      {
+        "file": "night-drive.webp",
+        "width": 2200,
+        "height": 1433
+      }
+    ],
+    "width": 2200,
+    "height": 1433,
+    "previewWidth": 820,
+    "previewHeight": 534,
+    "altRu": "Два тёмных автомобиля с включёнными фарами у здания после заката",
+    "altEn": "Two dark cars with headlights on outside a building after sunset",
+    "section": "archive"
+  },
+  {
+    "id": "lantern",
+    "title": "Маленький огонь",
+    "en": "A little glow",
+    "tag": "СВЕТ",
+    "tagen": "LIGHT",
+    "variants": [
+      {
+        "file": "lantern-w480.webp",
+        "width": 480,
+        "height": 737
+      },
+      {
+        "file": "lantern-sm.webp",
+        "width": 534,
+        "height": 820
+      },
+      {
+        "file": "lantern-w800.webp",
+        "width": 800,
+        "height": 1228
+      },
+      {
+        "file": "lantern-w1200.webp",
+        "width": 1200,
+        "height": 1842
+      },
+      {
+        "file": "lantern.webp",
+        "width": 1433,
+        "height": 2200
+      }
+    ],
+    "width": 1433,
+    "height": 2200,
+    "previewWidth": 534,
+    "previewHeight": 820,
+    "altRu": "Светящийся жёлтый фонарь на стене среди листьев",
+    "altEn": "A glowing yellow lantern on a wall among leaves",
+    "section": "featured"
+  },
+  {
+    "id": "archive-14",
+    "title": "Лестница в свете",
+    "en": "Stairs in light",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-14-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "archive-14-sm.webp",
+        "width": 820,
+        "height": 547
+      },
+      {
+        "file": "archive-14.webp",
+        "width": 900,
+        "height": 600
+      }
+    ],
+    "width": 900,
+    "height": 600,
+    "previewWidth": 820,
+    "previewHeight": 547,
+    "altRu": "Лестница и перила в золотом солнечном свете",
+    "altEn": "Stairs and railings in golden sunlight",
+    "section": "archive"
+  },
+  {
+    "id": "blue-motion",
+    "title": "Движение цвета",
+    "en": "Colour in motion",
+    "tag": "ЭКСПЕРИМЕНТ",
+    "tagen": "EXPERIMENT",
+    "variants": [
+      {
+        "file": "blue-motion-w480.webp",
+        "width": 480,
+        "height": 321
+      },
+      {
+        "file": "blue-motion-sm.webp",
+        "width": 820,
+        "height": 548
+      },
+      {
+        "file": "blue-motion.webp",
+        "width": 1616,
+        "height": 1080
+      }
+    ],
+    "width": 1616,
+    "height": 1080,
+    "previewWidth": 820,
+    "previewHeight": 548,
+    "altRu": "Абстрактные синие и голубые световые полосы, закрученные по кругу",
+    "altEn": "Abstract blue and cyan light streaks sweeping in a circle",
+    "section": "archive"
+  },
+  {
+    "id": "dusk",
+    "title": "На границе дня",
+    "en": "At the edge of day",
+    "tag": "ПРИРОДА",
+    "tagen": "NATURE",
+    "variants": [
+      {
+        "file": "dusk-w480.webp",
+        "width": 480,
+        "height": 319
+      },
+      {
+        "file": "dusk-sm.webp",
+        "width": 820,
+        "height": 545
+      },
+      {
+        "file": "dusk-w1280.webp",
+        "width": 1280,
+        "height": 851
+      },
+      {
+        "file": "dusk-w1600.webp",
+        "width": 1600,
+        "height": 1064
+      },
+      {
+        "file": "dusk.webp",
+        "width": 2200,
+        "height": 1463
+      }
+    ],
+    "width": 2200,
+    "height": 1463,
+    "previewWidth": 820,
+    "previewHeight": 545,
+    "altRu": "Тихая вода и силуэты хвойного леса под облачным вечерним небом",
+    "altEn": "Still water and a conifer forest beneath a cloudy evening sky",
+    "section": "chapters"
+  },
+  {
+    "id": "skyline",
+    "title": "Выше неба",
+    "en": "Above the sky",
+    "tag": "АРХИТЕКТУРА",
+    "tagen": "ARCHITECTURE",
+    "variants": [
+      {
+        "file": "skyline-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "skyline-sm.webp",
+        "width": 820,
+        "height": 547
+      },
+      {
+        "file": "skyline.webp",
+        "width": 2200,
+        "height": 1467
+      }
+    ],
+    "width": 2200,
+    "height": 1467,
+    "previewWidth": 820,
+    "previewHeight": 547,
+    "altRu": "Белая башня на фоне голубого неба с облаками, вид снизу",
+    "altEn": "A white tower against a blue cloudy sky, viewed from below",
+    "section": "archive"
+  },
+  {
+    "id": "birds",
+    "title": "Одно мгновение",
+    "en": "A fleeting moment",
+    "tag": "ГОРОД",
+    "tagen": "CITY",
+    "variants": [
+      {
+        "file": "birds-w480.webp",
+        "width": 480,
+        "height": 319
+      },
+      {
+        "file": "birds-sm.webp",
+        "width": 820,
+        "height": 545
+      },
+      {
+        "file": "birds.webp",
+        "width": 2200,
+        "height": 1463
+      }
+    ],
+    "width": 2200,
+    "height": 1463,
+    "previewWidth": 820,
+    "previewHeight": 545,
+    "altRu": "Белые птицы над тёмной водой у каменной стены",
+    "altEn": "White birds above dark water beside a stone wall",
+    "section": "archive"
+  },
+  {
+    "id": "perspective",
+    "title": "Между линиями",
+    "en": "Between the lines",
+    "tag": "АРХИТЕКТУРА",
+    "tagen": "ARCHITECTURE",
+    "variants": [
+      {
+        "file": "perspective-w480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "perspective-sm.webp",
+        "width": 820,
+        "height": 615
+      },
+      {
+        "file": "perspective.webp",
+        "width": 1280,
+        "height": 960
+      }
+    ],
+    "width": 1280,
+    "height": 960,
+    "previewWidth": 820,
+    "previewHeight": 615,
+    "altRu": "Высокие фасады зданий сходятся к светлому небу",
+    "altEn": "Tall building facades converge towards a bright sky",
+    "section": "archive"
+  },
+  {
+    "id": "golden-hour",
+    "title": "Когда свет становится золотом",
+    "en": "When light turns to gold",
+    "tag": "СВЕТ",
+    "tagen": "LIGHT",
+    "variants": [
+      {
+        "file": "golden-hour-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "golden-hour-sm.webp",
+        "width": 820,
+        "height": 547
+      },
+      {
+        "file": "golden-hour-w1280.webp",
+        "width": 1280,
+        "height": 854
+      },
+      {
+        "file": "golden-hour-w1600.webp",
+        "width": 1600,
+        "height": 1067
+      },
+      {
+        "file": "golden-hour.webp",
+        "width": 2200,
+        "height": 1467
+      }
+    ],
+    "width": 2200,
+    "height": 1467,
+    "previewWidth": 820,
+    "previewHeight": 547,
+    "altRu": "Золотое солнце над водой с отражением и силуэтами лодок",
+    "altEn": "Golden sunlight reflected on water with silhouetted boats",
+    "section": "featured"
+  },
+  {
+    "id": "red",
+    "title": "Красный в движении",
+    "en": "Red in motion",
+    "tag": "ДВИЖЕНИЕ",
+    "tagen": "MOTION",
+    "variants": [
+      {
+        "file": "red-w480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "red-sm.webp",
+        "width": 820,
+        "height": 615
+      },
+      {
+        "file": "red.webp",
+        "width": 1280,
+        "height": 960
+      }
+    ],
+    "width": 1280,
+    "height": 960,
+    "previewWidth": 820,
+    "previewHeight": 615,
+    "altRu": "Красный гоночный автомобиль в помещении среди посетителей",
+    "altEn": "A red racing car indoors among visitors",
+    "section": "archive"
+  },
+  {
+    "id": "drift",
+    "title": "Вне тишины",
+    "en": "Beyond the quiet",
+    "tag": "ДВИЖЕНИЕ",
+    "tagen": "MOTION",
+    "variants": [
+      {
+        "file": "drift-w480.webp",
+        "width": 480,
+        "height": 270
+      },
+      {
+        "file": "drift-sm.webp",
+        "width": 820,
+        "height": 462
+      },
+      {
+        "file": "drift.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ],
+    "width": 2200,
+    "height": 1238,
+    "previewWidth": 820,
+    "previewHeight": 462,
+    "altRu": "Красный автомобиль на трассе в клубах дыма",
+    "altEn": "A red car on a track surrounded by smoke",
+    "section": "archive"
+  },
+  {
+    "id": "wheel",
+    "title": "В отражениях",
+    "en": "In reflections",
+    "tag": "ДЕТАЛИ",
+    "tagen": "DETAILS",
+    "variants": [
+      {
+        "file": "wheel-w480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "file": "wheel-sm.webp",
+        "width": 547,
+        "height": 820
+      },
+      {
+        "file": "wheel.webp",
+        "width": 1467,
+        "height": 2200
+      }
+    ],
+    "width": 1467,
+    "height": 2200,
+    "previewWidth": 547,
+    "previewHeight": 820,
+    "altRu": "Крупный план металлического колеса тёмного автомобиля",
+    "altEn": "Close-up of a metal wheel on a dark car",
+    "section": "archive"
+  },
+  {
+    "id": "archive-02",
+    "title": "Бассейн",
+    "en": "Blue stillness",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-02-w480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "archive-02-sm.webp",
+        "width": 820,
+        "height": 615
+      },
+      {
+        "file": "archive-02.webp",
+        "width": 900,
+        "height": 675
+      }
+    ],
+    "width": 900,
+    "height": 675,
+    "previewWidth": 820,
+    "previewHeight": 615,
+    "altRu": "Светящийся синий бассейн в тёмном пространстве",
+    "altEn": "An illuminated blue pool in a dark space",
+    "section": "archive"
+  },
+  {
+    "id": "archive-03",
+    "title": "Горы",
+    "en": "Mountain air",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-03-w480.webp",
+        "width": 480,
+        "height": 423
+      },
+      {
+        "file": "archive-03-sm.webp",
+        "width": 820,
+        "height": 723
+      },
+      {
+        "file": "archive-03.webp",
+        "width": 900,
+        "height": 793
+      }
+    ],
+    "width": 900,
+    "height": 793,
+    "previewWidth": 820,
+    "previewHeight": 723,
+    "altRu": "Каменистая горная вершина и зелёные склоны",
+    "altEn": "A rocky mountain peak with green slopes",
+    "section": "archive"
+  },
+  {
+    "id": "archive-04",
+    "title": "Ветка",
+    "en": "A small detail",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-04-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "archive-04-sm.webp",
+        "width": 820,
+        "height": 547
+      },
+      {
+        "file": "archive-04.webp",
+        "width": 900,
+        "height": 600
+      }
+    ],
+    "width": 900,
+    "height": 600,
+    "previewWidth": 820,
+    "previewHeight": 547,
+    "altRu": "Хвойная ветка в мягком боковом свете",
+    "altEn": "A conifer branch in soft side light",
+    "section": "archive"
+  },
+  {
+    "id": "archive-05",
+    "title": "После дождя",
+    "en": "After the rain",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-05-w480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "archive-05-sm.webp",
+        "width": 820,
+        "height": 615
+      },
+      {
+        "file": "archive-05.webp",
+        "width": 900,
+        "height": 675
+      }
+    ],
+    "width": 900,
+    "height": 675,
+    "previewWidth": 820,
+    "previewHeight": 615,
+    "altRu": "Зелёный лист с крупными каплями воды",
+    "altEn": "A green leaf covered in large water droplets",
+    "section": "archive"
+  },
+  {
+    "id": "archive-06",
+    "title": "Вечерний город",
+    "en": "Evening city",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-06-w480.webp",
+        "width": 480,
+        "height": 359
+      },
+      {
+        "file": "archive-06-sm.webp",
+        "width": 820,
+        "height": 613
+      },
+      {
+        "file": "archive-06.webp",
+        "width": 900,
+        "height": 673
+      }
+    ],
+    "width": 900,
+    "height": 673,
+    "previewWidth": 820,
+    "previewHeight": 613,
+    "altRu": "Вечерний город и вода под розовым небом",
+    "altEn": "An evening city and water beneath a pink sky",
+    "section": "archive"
+  },
+  {
+    "id": "archive-07",
+    "title": "Вертолёт и луна",
+    "en": "The moon and a helicopter",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-07-w480.webp",
+        "width": 480,
+        "height": 336
+      },
+      {
+        "file": "archive-07-sm.webp",
+        "width": 820,
+        "height": 574
+      },
+      {
+        "file": "archive-07.webp",
+        "width": 900,
+        "height": 630
+      }
+    ],
+    "width": 900,
+    "height": 630,
+    "previewWidth": 820,
+    "previewHeight": 574,
+    "altRu": "Силуэт вертолёта и луна на синем облачном небе",
+    "altEn": "A helicopter silhouette and the moon in a blue cloudy sky",
+    "section": "archive"
+  },
+  {
+    "id": "archive-08",
+    "title": "Звёздное небо",
+    "en": "A starry night",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-08-w480.webp",
+        "width": 480,
+        "height": 318
+      },
+      {
+        "file": "archive-08-sm.webp",
+        "width": 820,
+        "height": 543
+      },
+      {
+        "file": "archive-08.webp",
+        "width": 900,
+        "height": 596
+      }
+    ],
+    "width": 900,
+    "height": 596,
+    "previewWidth": 820,
+    "previewHeight": 543,
+    "altRu": "Звёзды над верхушками деревьев",
+    "altEn": "Stars above the tops of trees",
+    "section": "archive"
+  },
+  {
+    "id": "archive-09",
+    "title": "Грозовые облака",
+    "en": "Storm clouds",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-09-w480.webp",
+        "width": 480,
+        "height": 318
+      },
+      {
+        "file": "archive-09-sm.webp",
+        "width": 820,
+        "height": 543
+      },
+      {
+        "file": "archive-09.webp",
+        "width": 900,
+        "height": 596
+      }
+    ],
+    "width": 900,
+    "height": 596,
+    "previewWidth": 820,
+    "previewHeight": 543,
+    "altRu": "Тёмные грозовые облака и светлый участок неба",
+    "altEn": "Dark storm clouds with a bright patch of sky",
+    "section": "archive"
+  },
+  {
+    "id": "archive-10",
+    "title": "Капля воды",
+    "en": "Water drops",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-10-w480.webp",
+        "width": 480,
+        "height": 726
+      },
+      {
+        "file": "archive-10-sm.webp",
+        "width": 542,
+        "height": 820
+      },
+      {
+        "file": "archive-10.webp",
+        "width": 595,
+        "height": 900
+      }
+    ],
+    "width": 595,
+    "height": 900,
+    "previewWidth": 542,
+    "previewHeight": 820,
+    "altRu": "Капли воды и круги на тёмной водной поверхности",
+    "altEn": "Water droplets and ripples on a dark water surface",
+    "section": "archive"
+  },
+  {
+    "id": "archive-11",
+    "title": "Причал на закате",
+    "en": "A pier at sunset",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-11-w480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "archive-11-sm.webp",
+        "width": 820,
+        "height": 615
+      },
+      {
+        "file": "archive-11.webp",
+        "width": 852,
+        "height": 639
+      }
+    ],
+    "width": 852,
+    "height": 639,
+    "previewWidth": 820,
+    "previewHeight": 615,
+    "altRu": "Силуэт причала и лодки на фоне вечернего неба",
+    "altEn": "A pier and a boat silhouetted against the evening sky",
+    "section": "archive"
+  },
+  {
+    "id": "archive-12",
+    "title": "Концерт",
+    "en": "In concert",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-12-w480.webp",
+        "width": 480,
+        "height": 270
+      },
+      {
+        "file": "archive-12-sm.webp",
+        "width": 820,
+        "height": 461
+      },
+      {
+        "file": "archive-12.webp",
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "width": 1200,
+    "height": 675,
+    "previewWidth": 820,
+    "previewHeight": 461,
+    "altRu": "Концертный зал в синем свете и зрители",
+    "altEn": "A concert venue in blue light with an audience",
+    "section": "archive"
+  },
+  {
+    "id": "archive-13",
+    "title": "Протянутые руки",
+    "en": "Reaching hands",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-13-w480.webp",
+        "width": 480,
+        "height": 304
+      },
+      {
+        "file": "archive-13-sm.webp",
+        "width": 820,
+        "height": 520
+      },
+      {
+        "file": "archive-13.webp",
+        "width": 1200,
+        "height": 761
+      }
+    ],
+    "width": 1200,
+    "height": 761,
+    "previewWidth": 820,
+    "previewHeight": 520,
+    "altRu": "Тени двух протянутых рук на тёплой освещённой стене",
+    "altEn": "Shadows of two reaching hands on a warmly lit wall",
+    "section": "selected"
+  },
+  {
+    "id": "archive-15",
+    "title": "Горная установка",
+    "en": "In the mountains",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-15-w480.webp",
+        "width": 480,
+        "height": 453
+      },
+      {
+        "file": "archive-15-sm.webp",
+        "width": 820,
+        "height": 774
+      },
+      {
+        "file": "archive-15.webp",
+        "width": 900,
+        "height": 850
+      }
+    ],
+    "width": 900,
+    "height": 850,
+    "previewWidth": 820,
+    "previewHeight": 774,
+    "altRu": "Металлическая конструкция среди горных скал",
+    "altEn": "A metal structure among mountain rocks",
+    "section": "archive"
+  },
+  {
+    "id": "archive-16",
+    "title": "Шахматная партия",
+    "en": "A game of chess",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-16-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "archive-16-sm.webp",
+        "width": 820,
+        "height": 547
+      },
+      {
+        "file": "archive-16.webp",
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 820,
+    "previewHeight": 547,
+    "altRu": "Шахматная доска и руки игроков в боковом свете",
+    "altEn": "A chessboard and players’ hands in side light",
+    "section": "archive"
+  },
+  {
+    "id": "archive-17",
+    "title": "Вечерний мангал",
+    "en": "Evening by the fire",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-17-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "archive-17-sm.webp",
+        "width": 820,
+        "height": 547
+      },
+      {
+        "file": "archive-17.webp",
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "width": 1200,
+    "height": 800,
+    "previewWidth": 820,
+    "previewHeight": 547,
+    "altRu": "Силуэт человека рядом с огнём и клубами дыма ночью",
+    "altEn": "A person silhouetted beside fire and smoke at night",
+    "section": "archive"
+  },
+  {
+    "id": "archive-18",
+    "title": "Кот в палатке",
+    "en": "A cat in a tent",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-18-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "archive-18-sm.webp",
+        "width": 820,
+        "height": 547
+      },
+      {
+        "file": "archive-18.webp",
+        "width": 900,
+        "height": 600
+      }
+    ],
+    "width": 900,
+    "height": 600,
+    "previewWidth": 820,
+    "previewHeight": 547,
+    "altRu": "Полосатый кот на фоне яркой ткани палатки",
+    "altEn": "A tabby cat against brightly coloured tent fabric",
+    "section": "archive"
+  },
+  {
+    "id": "archive-19",
+    "title": "Чёрный кот",
+    "en": "Black cat",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-19-w480.webp",
+        "width": 480,
+        "height": 319
+      },
+      {
+        "file": "archive-19-sm.webp",
+        "width": 820,
+        "height": 546
+      },
+      {
+        "file": "archive-19.webp",
+        "width": 900,
+        "height": 599
+      }
+    ],
+    "width": 900,
+    "height": 599,
+    "previewWidth": 820,
+    "previewHeight": 546,
+    "altRu": "Чёрный кот в тёплом боковом свете",
+    "altEn": "A black cat in warm side light",
+    "section": "archive"
+  },
+  {
+    "id": "archive-20",
+    "title": "Рыжий кот",
+    "en": "Ginger cat",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-20-w480.webp",
+        "width": 480,
+        "height": 319
+      },
+      {
+        "file": "archive-20-sm.webp",
+        "width": 820,
+        "height": 546
+      },
+      {
+        "file": "archive-20.webp",
+        "width": 900,
+        "height": 599
+      }
+    ],
+    "width": 900,
+    "height": 599,
+    "previewWidth": 820,
+    "previewHeight": 546,
+    "altRu": "Рыжий кот лежит на светлой поверхности",
+    "altEn": "A ginger cat resting on a light surface",
+    "section": "archive"
+  },
+  {
+    "id": "archive-21",
+    "title": "Поезд на станции",
+    "en": "A night train",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-21-w480.webp",
+        "width": 480,
+        "height": 270
+      },
+      {
+        "file": "archive-21-sm.webp",
+        "width": 820,
+        "height": 461
+      },
+      {
+        "file": "archive-21.webp",
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "width": 1200,
+    "height": 675,
+    "previewWidth": 820,
+    "previewHeight": 461,
+    "altRu": "Ночной поезд и огни станции за каплями на стекле",
+    "altEn": "A night train and station lights seen through a rain-covered window",
+    "section": "archive"
+  },
+  {
+    "id": "archive-22",
+    "title": "Нож в дереве",
+    "en": "A knife in a tree",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-22-w480.webp",
+        "width": 480,
+        "height": 269
+      },
+      {
+        "file": "archive-22-sm.webp",
+        "width": 820,
+        "height": 460
+      },
+      {
+        "file": "archive-22.webp",
+        "width": 1200,
+        "height": 673
+      }
+    ],
+    "width": 1200,
+    "height": 673,
+    "previewWidth": 820,
+    "previewHeight": 460,
+    "altRu": "Нож, воткнутый в ствол дерева в лесу",
+    "altEn": "A knife embedded in a tree trunk in a forest",
+    "section": "archive"
+  },
+  {
+    "id": "archive-23",
+    "title": "Туман и трава",
+    "en": "Mist and grass",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-23-w480.webp",
+        "width": 480,
+        "height": 480
+      },
+      {
+        "file": "archive-23-sm.webp",
+        "width": 820,
+        "height": 820
+      },
+      {
+        "file": "archive-23.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "width": 1200,
+    "height": 1200,
+    "previewWidth": 820,
+    "previewHeight": 820,
+    "altRu": "Тонкие стебли травы в светлом тумане",
+    "altEn": "Thin grass stems in pale mist",
+    "section": "archive"
+  },
+  {
+    "id": "archive-24",
+    "title": "Лестница на солнце",
+    "en": "Stairs in the sun",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-24-w480.webp",
+        "width": 480,
+        "height": 641
+      },
+      {
+        "file": "archive-24-sm.webp",
+        "width": 614,
+        "height": 820
+      },
+      {
+        "file": "archive-24.webp",
+        "width": 899,
+        "height": 1200
+      }
+    ],
+    "width": 899,
+    "height": 1200,
+    "previewWidth": 614,
+    "previewHeight": 820,
+    "altRu": "Солнечные полосы на ступенях лестницы",
+    "altEn": "Bands of sunlight on a staircase",
+    "section": "archive"
+  },
+  {
+    "id": "archive-25",
+    "title": "Листва с каплями",
+    "en": "Leaves after rain",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-25-w480.webp",
+        "width": 480,
+        "height": 348
+      },
+      {
+        "file": "archive-25-sm.webp",
+        "width": 820,
+        "height": 594
+      },
+      {
+        "file": "archive-25.webp",
+        "width": 1200,
+        "height": 869
+      }
+    ],
+    "width": 1200,
+    "height": 869,
+    "previewWidth": 820,
+    "previewHeight": 594,
+    "altRu": "Зелёная листва с каплями дождя на светлом фоне",
+    "altEn": "Green foliage with raindrops against a bright background",
+    "section": "archive"
+  },
+  {
+    "id": "archive-26",
+    "title": "Капли на листе",
+    "en": "Raindrops on a leaf",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-26-w480.webp",
+        "width": 480,
+        "height": 359
+      },
+      {
+        "file": "archive-26-sm.webp",
+        "width": 820,
+        "height": 614
+      },
+      {
+        "file": "archive-26.webp",
+        "width": 1200,
+        "height": 898
+      }
+    ],
+    "width": 1200,
+    "height": 898,
+    "previewWidth": 820,
+    "previewHeight": 614,
+    "altRu": "Капли дождя на широком зелёном листе",
+    "altEn": "Raindrops on a broad green leaf",
+    "section": "archive"
+  },
+  {
+    "id": "archive-27",
+    "title": "Красный акцент",
+    "en": "A red accent",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-27-w480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "file": "archive-27-sm.webp",
+        "width": 547,
+        "height": 820
+      },
+      {
+        "file": "archive-27.webp",
+        "width": 800,
+        "height": 1200
+      }
+    ],
+    "width": 800,
+    "height": 1200,
+    "previewWidth": 547,
+    "previewHeight": 820,
+    "altRu": "Красная банка Coca-Cola на чёрном фоне",
+    "altEn": "A red Coca-Cola can against a black background",
+    "section": "archive"
+  },
+  {
+    "id": "archive-28",
+    "title": "Фактура",
+    "en": "Texture",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-28-w480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "file": "archive-28-sm.webp",
+        "width": 820,
+        "height": 615
+      },
+      {
+        "file": "archive-28.webp",
+        "width": 900,
+        "height": 675
+      }
+    ],
+    "width": 900,
+    "height": 675,
+    "previewWidth": 820,
+    "previewHeight": 615,
+    "altRu": "Крупный план коричневой фактурной поверхности",
+    "altEn": "Close-up of a textured brown surface",
+    "section": "archive"
+  },
+  {
+    "id": "archive-29",
+    "title": "Белые цветы",
+    "en": "White flowers",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-29-w480.webp",
+        "width": 480,
+        "height": 318
+      },
+      {
+        "file": "archive-29-sm.webp",
+        "width": 820,
+        "height": 543
+      },
+      {
+        "file": "archive-29.webp",
+        "width": 900,
+        "height": 596
+      }
+    ],
+    "width": 900,
+    "height": 596,
+    "previewWidth": 820,
+    "previewHeight": 543,
+    "altRu": "Маленькие белые цветы среди зелёной травы",
+    "altEn": "Small white flowers among green grass",
+    "section": "archive"
+  },
+  {
+    "id": "archive-30",
+    "title": "Одуванчики",
+    "en": "Dandelions",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-30-w480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "file": "archive-30-sm.webp",
+        "width": 820,
+        "height": 547
+      },
+      {
+        "file": "archive-30.webp",
+        "width": 900,
+        "height": 600
+      }
+    ],
+    "width": 900,
+    "height": 600,
+    "previewWidth": 820,
+    "previewHeight": 547,
+    "altRu": "Жёлтые одуванчики с размытием движения",
+    "altEn": "Yellow dandelions with motion blur",
+    "section": "archive"
+  },
+  {
+    "id": "archive-31",
+    "title": "Лесная дорога",
+    "en": "A forest road",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-31-w480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "file": "archive-31-sm.webp",
+        "width": 547,
+        "height": 820
+      },
+      {
+        "file": "archive-31.webp",
+        "width": 600,
+        "height": 900
+      }
+    ],
+    "width": 600,
+    "height": 900,
+    "previewWidth": 547,
+    "previewHeight": 820,
+    "altRu": "Дорога между высокими деревьями под облачным небом",
+    "altEn": "A road between tall trees under a cloudy sky",
+    "section": "archive"
+  },
+  {
+    "id": "archive-32",
+    "title": "Дорожный знак",
+    "en": "A street sign",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-32-w480.webp",
+        "width": 480,
+        "height": 641
+      },
+      {
+        "file": "archive-32-sm.webp",
+        "width": 614,
+        "height": 820
+      },
+      {
+        "file": "archive-32.webp",
+        "width": 899,
+        "height": 1200
+      }
+    ],
+    "width": 899,
+    "height": 1200,
+    "previewWidth": 614,
+    "previewHeight": 820,
+    "altRu": "Синий знак велосипедной дорожки в тёплом свете",
+    "altEn": "A blue cycle path sign in warm light",
+    "section": "archive"
+  },
+  {
+    "id": "archive-33",
+    "title": "Цветок и булавка",
+    "en": "Flower and pin",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-33-w480.webp",
+        "width": 480,
+        "height": 639
+      },
+      {
+        "file": "archive-33-sm.webp",
+        "width": 616,
+        "height": 820
+      },
+      {
+        "file": "archive-33.webp",
+        "width": 901,
+        "height": 1200
+      }
+    ],
+    "width": 901,
+    "height": 1200,
+    "previewWidth": 616,
+    "previewHeight": 820,
+    "altRu": "Белый цветок в чёрно-белом кадре",
+    "altEn": "A white flower in a black and white photograph",
+    "section": "archive"
+  },
+  {
+    "id": "archive-34",
+    "title": "Снегопад ночью",
+    "en": "A snowy night",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-34-w480.webp",
+        "width": 480,
+        "height": 362
+      },
+      {
+        "file": "archive-34-sm.webp",
+        "width": 820,
+        "height": 618
+      },
+      {
+        "file": "archive-34.webp",
+        "width": 1200,
+        "height": 904
+      }
+    ],
+    "width": 1200,
+    "height": 904,
+    "previewWidth": 820,
+    "previewHeight": 618,
+    "altRu": "Человек на ночной улице во время снегопада",
+    "altEn": "A person on a street at night during snowfall",
+    "section": "archive"
+  },
+  {
+    "id": "archive-35",
+    "title": "Коробки на складе",
+    "en": "Boxes",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-35-w480.webp",
+        "width": 480,
+        "height": 600
+      },
+      {
+        "file": "archive-35-sm.webp",
+        "width": 656,
+        "height": 820
+      },
+      {
+        "file": "archive-35.webp",
+        "width": 960,
+        "height": 1200
+      }
+    ],
+    "width": 960,
+    "height": 1200,
+    "previewWidth": 656,
+    "previewHeight": 820,
+    "altRu": "Ряды картонных коробок на складе",
+    "altEn": "Rows of cardboard boxes in a warehouse",
+    "section": "archive"
+  },
+  {
+    "id": "archive-36",
+    "title": "Следы на льду",
+    "en": "Footprints on ice",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-36-w480.webp",
+        "width": 480,
+        "height": 276
+      },
+      {
+        "file": "archive-36-sm.webp",
+        "width": 820,
+        "height": 471
+      },
+      {
+        "file": "archive-36.webp",
+        "width": 900,
+        "height": 517
+      }
+    ],
+    "width": 900,
+    "height": 517,
+    "previewWidth": 820,
+    "previewHeight": 471,
+    "altRu": "Ботинки и следы на заснеженной ледяной поверхности",
+    "altEn": "Boots and footprints on a snowy icy surface",
+    "section": "archive"
+  },
+  {
+    "id": "archive-37",
+    "title": "Столб и небо",
+    "en": "A pole and sky",
+    "tag": "ИЗ АРХИВА",
+    "tagen": "FROM THE ARCHIVE",
+    "variants": [
+      {
+        "file": "archive-37-w480.webp",
+        "width": 480,
+        "height": 319
+      },
+      {
+        "file": "archive-37-sm.webp",
+        "width": 820,
+        "height": 546
+      },
+      {
+        "file": "archive-37.webp",
+        "width": 900,
+        "height": 599
+      }
+    ],
+    "width": 900,
+    "height": 599,
+    "previewWidth": 820,
+    "previewHeight": 546,
+    "altRu": "Силуэт столба и проводов на облачном небе",
+    "altEn": "A pole and wires silhouetted against a cloudy sky",
+    "section": "archive"
+  }
+]
