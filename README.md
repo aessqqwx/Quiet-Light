@@ -1,50 +1,43 @@
 # Quiet Light
 
-Atmospheric landing page for the Telegram photography community **[@QuietLightPhoto](https://t.me/QuietLightPhoto)**.
+A visual diary landing page for the Telegram channel [@QuietLightPhoto](https://t.me/QuietLightPhoto).
 
-Static HTML, CSS and JavaScript. Anime.js 4.0.2 is served locally; there is no build step or framework. All 14 photographs from the new archive and all 37 original photographs are retained. The first eight form the curated selection; the remaining photographs load in batches of twelve. WebP previews and larger lightbox versions are stored separately.
+**Live site:** https://aessqqwx.github.io/Quiet-Light/
 
-## Preview
+Static HTML, CSS, JavaScript and local Anime.js 4.0.2. No framework or runtime build is required. The redesign follows the final specification in stage 9 of the Quiet Light audit.
+
+## Content
+
+Eight unique photographs form the main story: spiral → fern → reaching hands → Milky Way → golden hour → lantern → city motion → dusk. The separate native archive contains the other 43 photographs, initially eight, then batches of twelve. All 14 new photographs and all 37 original photographs are retained.
+
+The three empty WebP files were restored from their original JPEGs. Responsive variants, factual RU/EN alt text and actual dimensions are recorded in `assets/photo-manifest.json`. The hero preload and image use the same srcset and sizes. Larger photographs load only when selected in the lightbox; gallery images load lazily.
+
+## Interactions and motion
+
+- Russian/English and dark/light preferences are saved locally.
+- Native dialog with explicit Tab/Shift+Tab loop, arrows, Escape and focus return.
+- Single tap opens a photograph; horizontal swipe is an optional shortcut. Vertical gestures and pinch remain available.
+- Native scroll, short once-only media reveals and semantic text stagger, subtle desktop photo parallax and a finite Ambient invitation.
+- Reduced motion before load or switched live finishes all decoration immediately.
+- Without JavaScript, the story, Telegram links and native archive with its first eight photographs remain visible.
+- No analytics, accounts, remote fonts or third-party initial requests.
+
+Telegram, Instagram and TikTok URLs match the owner's instructions. Voluntary support copies `2202209220160609`. No bank or recipient is asserted. Inquiries and photo submissions use the existing owner contact, without an unverified channel-direct-message promise.
+
+## Local preview
 
 ```bash
 python3 -m http.server 8080
 ```
 
-Open `http://localhost:8080`. The same files work on GitHub Pages and Vercel. Keep relative asset paths so deployment under `/Quiet-Light/` works. `vercel.json` supplies static asset caching and response headers.
+Open http://localhost:8080. Relative paths also work under the GitHub Pages project path `/Quiet-Light/`. Preserve `.nojekyll` and the existing Pages configuration. `vercel.json` remains available for static Vercel hosting, but GitHub Pages is the requested publication.
 
-## Features
+`python3 tools/render.py` rebuilds the static HTML from the manifest and SVG symbols. Image variants are supplied assets; this command does not recompress photographs.
 
-- Russian and English, with a saved language preference.
-- Dark and light themes, retaining the original theme preference key.
-- Curated gallery, incremental expansion, keyboard-accessible lightbox and touch navigation.
-- Telegram subscription links, photo submission, Instagram and TikTok.
-- Voluntary support dialog with explicit card-number copying.
-- Staggered titles, image reveals, desktop parallax and subtle gradients.
-- Reduced-motion support, native scrolling, native modal focus management and local fonts.
-- No analytics, cookies, accounts or third-party requests during initial page load.
+## Verification
 
-Photographs are supplied by the channel owner. Third-party licenses are included in `assets/fonts/OFL.txt` and `assets/vendor/LICENSE-anime.txt`.
+See [QA.md](QA.md) for the completed checks, fixed defects, mobile laboratory conditions and remaining limits. Reports distinguish new verification from the earlier site's historical QA.
 
-## Публикация готовой версии
+Photographs were supplied by the channel owner. Font and Anime.js licenses remain under `assets/fonts/OFL.txt` and `assets/vendor/LICENSE-anime.txt`.
 
-Основа — существующий репозиторий [aessqqwx/Quiet-Light](https://github.com/aessqqwx/Quiet-Light). Сайт посвящён Telegram-каналу и сообществу авторов. Главный кадр — закат над морем из нового архива. Для первой подборки выбраны архитектура, природа, ночное небо, движение и городской свет.
-
-Распакуйте архив. В корне сайта должны лежать `index.html`, `styles.css`, `script.js`, `.nojekyll`, `vercel.json` и папка `assets`. Папку `verification` можно не публиковать: в ней находятся скриншоты и результаты проверки.
-
-Для GitHub Pages замените содержимое рабочего каталога репозитория этими файлами и отправьте изменения в `main`. Не переносите сайт в дополнительную вложенную папку. Существующая конфигурация GitHub Pages продолжит публиковать сайт. Для Vercel выберите этот репозиторий и статический проект без команды сборки; готовая конфигурация находится в `vercel.json`.
-
-Локальная проверка: из корня проекта выполните `python3 -m http.server 8080` и откройте `http://localhost:8080`.
-
-## Что проверено
-
-- Chromium: русская и английская версии на ширинах 320, 375, 390, 428, 768, 800, 1024, 1280, 1440 и 1920 пикселей. Горизонтального переполнения нет.
-- Галерея: первая подборка из восьми кадров, загрузка следующих фотографий, все 51 изображение, сворачивание.
-- Просмотр фотографий: следующий кадр, стрелки клавиатуры, Escape, возврат фокуса.
-- Мобильное меню, сохранение языка и темы, копирование номера карты.
-- Режим уменьшенной анимации и доступность основного содержимого без JavaScript.
-- Нет ошибок JavaScript и отсутствующих локальных ресурсов в проверенном сценарии.
-
-Проверка выполнена в браузере с desktop/mobile размерами окна. Реальные устройства и Safari отдельно не проверялись. Адреса Telegram, Instagram и TikTok соответствуют заданным ссылкам; состояние внешних сервисов сайт не контролирует.
-
-Редактируемые цвета, типографика и кнопки: [Quiet Light в Figma](https://www.figma.com/design/5XDH9wQqCABa8MErjATHGW).
-
+The earlier editable design source is [Quiet Light in Figma](https://www.figma.com/design/5XDH9wQqCABa8MErjATHGW). The current audited implementation is maintained in this repository.
