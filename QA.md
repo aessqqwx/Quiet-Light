@@ -34,4 +34,14 @@ These are controlled local laboratory measurements. They are not published-host 
 
 Physical iOS/Android devices, Safari, an actual screen reader, native browser zoom200/400%, full back/bfcache testing and real GPU frame traces were not performed. Reflow was tested down to320CSSpx. The optional featured sticky hold stays disabled where its natural geometry does not meet the audit's conditions; no spacer is added. Mobile uses normal flow with static Ambient and no parallax.
 
-Publication verification is performed separately after GitHub Pages has deployed the release.
+## Publication verification — 4 October 2026
+
+The redesign was merged into `main` as commit `7a2751368b1b42187579c75fcaa7a44cfe0e9d82`. GitHub Pages build/deployment #11 completed successfully in 28 seconds. The public site was then opened and checked in desktop Chrome.
+
+- New hero, pre-image Telegram CTA, Russian/English and dark/light switching work on the published host.
+- Main-story lightbox loads full reaching-hands image at 1200px; the restored blue-motion photograph loads at 1616px. Next, keyboard arrow, Escape and focus return were exercised.
+- Archive opens with eight photographs, expands to twenty and collapses to eight, then closes normally.
+- Published Instagram/TikTok/Telegram URLs and the support number match the required values; the copy action displays its successful confirmation.
+- The final Ambient invitation and opaque Telegram CTA were inspected visually after publication.
+
+The 40 layout combinations, mobile emulation, accessibility and throttled performance results above are local QA. They were not all repeated on the published host. The remaining device/browser limits still apply.
